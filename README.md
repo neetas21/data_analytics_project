@@ -44,14 +44,13 @@ The workflow includes:
 
 ```
 data_analytics_project/
-│
 ├── data/
 │   └── customer_shopping_behavior.csv
-│
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_sql_queries.sql
 ├── README.md
 └── LICENSE
+
 ```
 
 
